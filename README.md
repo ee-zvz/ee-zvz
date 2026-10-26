@@ -2,16 +2,16 @@
   <img src="./assets/banner.svg" alt="Mustafa — The Silent" width="100%" />
 </p>
 
-### Full-stack developer — TypeScript · React · Node · Supabase
+### Cybersecurity student · Full-stack developer
 
-I build web products end to end. Most of my work is private; what ships, ships quiet.
+I study security and build web products end to end. Most of my work is private; what ships, ships quiet.
 
 <br />
 
 **Now**
 
+- Studying cybersecurity — offensive and defensive fundamentals
 - Building private products on `TypeScript` + `Supabase`
-- Open to freelance work
 
 **Selected work**
 
@@ -22,6 +22,10 @@ I build web products end to end. Most of my work is private; what ships, ships q
 | **Emerald Journeys** | Student access platform — name-based sessions, PIN admin, encrypted settings, dark mode |
 
 <sub>All three are private repositories. Code walkthrough on request.</sub>
+
+**Coming soon**
+
+- New projects in the pipeline — they show up here first.
 
 **Stack**
 

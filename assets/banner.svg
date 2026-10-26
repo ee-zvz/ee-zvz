@@ -28,22 +28,23 @@
 
     <rect x="0" y="0" width="3" height="320" fill="url(#mark)"/>
 
-    <text x="72" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+    <text x="72" y="86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
           font-size="13" letter-spacing="6.5" fill="#6b7280">T H E   S I L E N T</text>
 
-    <text x="70" y="176" font-family="system-ui, Segoe UI, Helvetica, Arial, sans-serif"
-          font-weight="700" font-size="66" letter-spacing="-1.2" fill="#f4f4f5">Mustafa</text>
+    <text x="70" y="164" font-family="system-ui, Segoe UI, Helvetica, Arial, sans-serif"
+          font-weight="700" font-size="64" letter-spacing="-1.2" fill="#f4f4f5">Mustafa</text>
 
-    <line x1="72" y1="204" x2="560" y2="204" stroke="#1f2937" stroke-width="1"/>
+    <line x1="72" y1="192" x2="520" y2="192" stroke="#1f2937" stroke-width="1"/>
 
-    <text x="72" y="238" font-family="system-ui, Segoe UI, Helvetica, Arial, sans-serif"
-          font-size="18" fill="#a1a1aa">Full-stack developer</text>
+    <text x="72" y="226" font-family="system-ui, Segoe UI, Helvetica, Arial, sans-serif"
+          font-size="18" fill="#b4b4bb">Cybersecurity student</text>
+    <text x="256" y="226" font-family="system-ui, Segoe UI, Helvetica, Arial, sans-serif"
+          font-size="18" fill="#3f3f46">·</text>
+    <text x="274" y="226" font-family="system-ui, Segoe UI, Helvetica, Arial, sans-serif"
+          font-size="18" fill="#b4b4bb">Full-stack developer</text>
 
-    <text x="262" y="238" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
-          font-size="16" fill="#3f3f46">/</text>
-
-    <text x="282" y="238" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
-          font-size="16" fill="#71717a">TypeScript · React · Node · Supabase</text>
+    <text x="72" y="260" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="15" fill="#5b5b66">TypeScript · React · Node · Supabase</text>
 
     <g stroke="#22c55e" stroke-opacity="0.55" stroke-width="2"
        stroke-linecap="round" stroke-linejoin="round" fill="none">
