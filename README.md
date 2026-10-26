@@ -14,9 +14,15 @@ I study security and work in website scanning — mapping the surface, finding w
 - Studying offensive and defensive fundamentals
 - Building the automation that makes repeat work cheap
 
+**Selected work**
+
+| Project | What it does |
+| :-- | :-- |
+| [**SV1**](https://github.com/ee-zvz/sv1) | Python scanner for XSS, SQL injection, blind XSS and SSRF — proves execution in Chromium, catches OOB callbacks, crawls SPAs, emits SARIF for CI |
+
 **Coming soon**
 
-- Projects in progress. They land here first.
+- More tools in progress. They land here first.
 
 **Toolkit**
 
