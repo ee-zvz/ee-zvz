@@ -38,10 +38,10 @@
 
     <text x="72" y="226" font-family="system-ui, Segoe UI, Helvetica, Arial, sans-serif"
           font-size="18" fill="#b4b4bb">Cybersecurity student</text>
-    <text x="256" y="226" font-family="system-ui, Segoe UI, Helvetica, Arial, sans-serif"
+    <text x="262" y="226" font-family="system-ui, Segoe UI, Helvetica, Arial, sans-serif"
           font-size="18" fill="#3f3f46">·</text>
-    <text x="274" y="226" font-family="system-ui, Segoe UI, Helvetica, Arial, sans-serif"
-          font-size="18" fill="#b4b4bb">Full-stack developer</text>
+    <text x="280" y="226" font-family="system-ui, Segoe UI, Helvetica, Arial, sans-serif"
+          font-size="18" fill="#b4b4bb">Web security scanning</text>
 
     <text x="72" y="260" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
           font-size="15" fill="#5b5b66">TypeScript · React · Node · Supabase</text>

@@ -2,39 +2,30 @@
   <img src="./assets/banner.svg" alt="Mustafa — The Silent" width="100%" />
 </p>
 
-### Cybersecurity student · Full-stack developer
+### Cybersecurity student · Web security
 
-I study security and build web products end to end. Most of my work is private; what ships, ships quiet.
+I study security and work in website scanning — mapping the surface, finding what's exposed, and reporting it in plain language.
 
 <br />
 
-**Now**
+**Focus**
 
-- Studying cybersecurity — offensive and defensive fundamentals
-- Building private products on `TypeScript` + `Supabase`
-
-**Selected work**
-
-| Project | What it does |
-| :-- | :-- |
-| **VLESS Bridge** | Self-hosted Node.js traffic manager — per-subscriber TCP ports, live throughput metering, device and duration limits, automatic cut-off |
-| **Pixel Vault** | Storefront with a points wallet, admin approval flow and WhatsApp top-ups &nbsp;·&nbsp; [live](https://pixel-vault-connect.lovable.app) |
-| **Emerald Journeys** | Student access platform — name-based sessions, PIN admin, encrypted settings, dark mode |
-
-<sub>All three are private repositories. Code walkthrough on request.</sub>
+- Website security assessment — reconnaissance, exposed surface, misconfiguration
+- Studying offensive and defensive fundamentals
+- Building the automation that makes repeat work cheap
 
 **Coming soon**
 
-- New projects in the pipeline — they show up here first.
+- Projects in progress. They land here first.
 
-**Stack**
+**Toolkit**
 
 <p>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-0b0b0d?style=flat-square&logo=linux&logoColor=E6E6E6" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-0b0b0d?style=flat-square&logo=python&logoColor=3776AB" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0b0b0d?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img alt="React" src="https://img.shields.io/badge/React-0b0b0d?style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0b0b0d?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-0b0b0d?style=flat-square&logo=supabase&logoColor=3FCF8E" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0b0b0d?style=flat-square&logo=postgresql&logoColor=4169E1" />
 </p>
 
 <br />
